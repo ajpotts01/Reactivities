@@ -460,4 +460,6 @@ $RECYCLE.BIN/
 StudentAssets/
 dotnet6files/
 appsettings.json
+*.db
+*.db*
 #appsettings.Development.json
